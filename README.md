@@ -1,5 +1,9 @@
-# Supriyo Roy 👨‍💻
-![Profile Visitors](https://komarev.com/ghpvc/?username=supriyoroy&color=brightgreen&style=flat-square&label=Profile+Visitors)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Supriyo&nbsp;Roy&animation=fadeIn&type=waving&color=gradient&height=200&fontSize=60&fontAlignY=35"/>
+</div>
+
+![Profile Visitors](https://komarev.com/ghpvc/?username=7supriyo&color=brightgreen&style=flat-square&label=Profile+Visitors)
 
 📧 **suppiyor099@gmail.com** | 🌍 **Bishnupur, West Bengal**
 
@@ -15,19 +19,19 @@ I'm a passionate **VLSI enthusiast** dedicated to the fascinating world of digit
 ### 1. **Motion Activated Security Lights** 🏠💡
 - Developed a home security system using a GSM module, PIR sensor, LED, and Arduino Uno to detect motion
 - The system activates an LED light and sends SMS alerts via the GSM module
-- 🔗 [Project Link](#)
+- 🔗 [Project Link](https://github.com/7supriyo/Intruder-Alert-System-Using-Motion-Sensors-and-GSM-Module)
 
 ### 2. **Analysis of Voltage Transfer Characteristic and Power Dissipation in a CMOS Inverter** ⚡📊
 - Designed and simulated a CMOS inverter circuit using LTspice
 - Analyzed voltage transfer characteristics (VTC) and power dissipation
 - Conducted DC and transient analyses to evaluate static and dynamic power dissipation
-- 🔗 [Project Link](#)
+- 🔗 [Project Link](https://github.com/7supriyo/Analysis-of-Voltage-Transfer-Characteristic-and-Power-Dissipation-in-a-CMOS-Inverter-using-LTspice)
 
 ### 3. **Verilog Implementation of a Universal-Shift-Register** 🔄💻
 - Designed and implemented a 4-bit Universal Shift Register in Verilog HDL
 - Utilized separate modules for D flip-flops and an 8-to-1 multiplexer for modularity
 - Tested using a Verilog testbench and visualized waveforms using GTKWave
-- 🔗 [Project Link](#)
+- 🔗 [Project Link](https://github.com/7supriyo/Verilog-Implementation-of-a-Universal-Shift-Register)
 
 ## 💼 Work Experience
 ### **National Institute of Technology, Durgapur** 🏫
@@ -79,9 +83,8 @@ When I'm not immersed in circuit design:
 I'm always eager to collaborate, discuss VLSI design, or explore new opportunities in semiconductor technology:
 - 📧 **Email**: suppiyor099@gmail.com
 - 💼 **LinkedIn**: [LinkedIn Profile](#)
-- 🐱 **GitHub**: [GitHub Profile](#)
+- 🐱 **GitHub**: [GitHub Profile](https://github.com/7supriyo)
 
 **Let's build the future, one transistor at a time!** ⚡
 
 ---
-*Made with ❤️ by Supriyo Roy*
