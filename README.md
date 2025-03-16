@@ -1,100 +1,61 @@
-# Supriyo Roy 👨‍💻
 
-📞 **+91-8101170687** | 📧 **suppiyor099@gmail.com** | 🌍 **Bishnupur, West Bengal**
+### **About Me** 👋
 
----
+Hi there! I'm **Supriyo Roy**, an aspiring **VLSI enthusiast** with a passion for designing and optimizing digital circuits and Analog Circuits. I believe that the world of Very Large Scale Integration (VLSI) is where magic happens—where tiny transistors come together to create powerful systems that drive modern technology. 💻✨
 
-## 🎓 **Education**
-
-- **Indian Institute of Engineering Science and Technology, Shibpur**  
-  🎯 **B.Tech in Electrical Engineering**  
- 
+- 🎓 Currently pursuing my **B.Tech in Electrical Engineering** at **IIEST Shibpur**, where I'm diving deep into the world of hardware design, digital logic, and semiconductor technologies.
+- 🔧 I love working with **Verilog**, **LTspice**, and **MATLAB** to design and simulate circuits, from CMOS inverters to complex shift registers.
+- 🚀 My goal is to contribute to the development of cutting-edge semiconductor technologies that power everything from smartphones to AI systems.
 
 ---
 
-## 🛠️ **Projects**
+### **What Drives Me?** 🔥
 
-### 1. **Motion Activated Security Lights** 🏠💡
-- Developed a home security system using a GSM module, PIR sensor, LED, and Arduino Uno to detect motion.
-- The system activates an LED light and sends SMS alerts via the GSM module.
-- 🔗 [Project Link](#)
-
-### 2. **Analysis of Voltage Transfer Characteristic and Power Dissipation in a CMOS Inverter** ⚡📊
-- Designed and simulated a CMOS inverter circuit using LTspice.
-- Analyzed voltage transfer characteristics (VTC) and power dissipation.
-- Conducted DC and transient analyses to evaluate static and dynamic power dissipation.
-- 🔗 [Project Link](#)
-
-### 3. **Verilog Implementation of a Universal-Shift-Register** 🔄💻
-- Designed and implemented a 4-bit Universal Shift Register in Verilog HDL.
-- Utilized separate modules for D flip-flops and an 8-to-1 multiplexer for modularity.
-- Tested using a Verilog testbench and visualized waveforms using GTKWave.
-- 🔗 [Project Link](#)
+- **Curiosity**: I’m fascinated by how billions of transistors can fit on a single chip and work together seamlessly. The more I learn, the more I realize there’s so much more to explore!
+- **Problem-Solving**: I enjoy tackling challenges in circuit design, whether it’s optimizing power dissipation or improving signal integrity.
+- **Innovation**: I’m always looking for ways to push the boundaries of what’s possible in VLSI design, whether through new architectures or efficient algorithms.
 
 ---
 
-## 💼 **Work Experience**
+### **My VLSI Journey So Far** 🛠️
 
-### **National Institute of Technology, Durgapur** 🏫
-- **Research Intern**  
-  📅 *2023*  
-  Worked under the guidance of Professor Aritro Dey in the domains of **Control Systems** and **State Estimation**.
-
-### **GDG on Campus, IIEST Shibpur** 🎨
-- **Co-Lead of the Design Team**  
-  Designed engaging posters and created promotional videos for GDG events.
+- **Projects**: I’ve worked on projects like designing a **CMOS inverter** and implementing a **4-bit Universal Shift Register** in Verilog. These projects have helped me understand the intricacies of digital design and hardware description languages.
+- **Learning**: I’ve completed **VLSI lessons for beginners** from the **National Institute of Electronics and Information Technology**, and I’m constantly expanding my knowledge through online courses and hands-on projects.
+- **Achievements**: I’ve participated in technical fests like **SPHURAN 3.0** and **AXIS'24**, where I’ve won prizes and qualified for simulation-based rounds.
 
 ---
 
-## 🛠️ **Technical Skills**
+### **What I’m Working On** 🛠️
 
-- **Programming Languages**: C, Python, MATLAB, Verilog
-- **Developer Tools**: GitHub, VS Code, Google Colab
-- **Circuit Design Tools**: LTspice, PSIM
-
----
-
-## 🏆 **Achievements**
-
-- **Certificate of Distinction** for exceptional performance during the **Winter School 2024** organized by the **Centre for Nano Science and Engineering (CeNSE)** at **The Indian Institute of Science (IISc)**.  
-  🔗 [Certificate Link](#)
-
-- **2nd Prize** in **"Electroquip"** at **SPHURAN 3.0** - The Electrical Department's annual technical fest of IIEST, Shibpur.
-
-- Qualified for the **final Simulation-Based Round** in **Electribitz** of **AXIS'24**: The Annual Technical Festival of VNIT.
+- **Exploring FPGA Design**: I’m currently diving into FPGA (Field-Programmable Gate Array) design to understand how reconfigurable hardware can be used for rapid prototyping and testing.
+- **Learning Advanced VLSI Concepts**: I’m studying advanced topics like **ASIC design**, **timing analysis**, and **low-power design techniques** to prepare for a career in the semiconductor industry.
+- **Building a Portfolio**: I’m documenting my projects and learnings on GitHub to share my journey with the world and connect with like-minded enthusiasts.
 
 ---
 
-## 📜 **Certifications**
+### **Fun Facts About Me** 🎨
 
-- Completed all **VLSI lessons for beginners** from the **National Institute of Electronics and Information Technology**.  
-  🔗 [Certificate Link](#)
-
----
-
-## 🌐 **Languages**
-
-- **English**: Professional Proficiency
-- **Bengali**: Native Proficiency
-- **Hindi**: Conversational Proficiency
+- When I’m not designing circuits, you’ll find me:
+  - 🎨 Designing posters and promotional videos for tech events (I’m the **Co-Lead of the Design Team** at GDG on Campus, IIEST Shibpur).
+  - 🌍 Exploring new technologies and trends in the semiconductor industry.
+  - ☕ Sipping coffee while debugging Verilog code (because every VLSI engineer needs a good cup of coffee!).
 
 ---
 
-## 🎨 **Colorful Design Elements**
+### **Let’s Connect!** 🤝
 
-Here are some colorful emojis to make this README more vibrant:
+I’m always excited to collaborate on projects, discuss VLSI design, or just geek out about semiconductors. Feel free to reach out to me:
 
-- 🌈 **Rainbow**: Because every project needs a little color!
-- 🚀 **Rocket**: Ready to launch into new challenges!
-- 🔧 **Tools**: Always equipped with the right tools for the job.
-- 📚 **Books**: Constantly learning and growing.
-- 🏆 **Trophy**: Celebrating achievements along the way.
+- 📧 **Email**: suppiyor099@gmail.com
+- 💼 **LinkedIn**: [Your LinkedIn Profile](#)
+- 🐱 **GitHub**: [Your GitHub Profile](#)
 
 ---
 
-### **Let's Connect!** 🤝
+**Let’s build the future, one transistor at a time!** 🚀
 
-Feel free to reach out to me for collaborations, projects, or just a chat!  
+
+or collaborations, projects, or just a chat!  
 📧 **suppiyor099@gmail.com** | [GitHub Profile](#) | [LinkedIn](#)
 
 ---
