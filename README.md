@@ -83,9 +83,7 @@ When I'm not immersed in circuit design:
 I'm always eager to collaborate, discuss VLSI design, or explore new opportunities in semiconductor technology:
 - 📧 **Email**: suppiyor099@gmail.com
 - 💼 **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/
-supriyo-roy-7abc
-Vanity URL name
-)
+supriyo-roy-7abc)
 - 🐱 **GitHub**: [GitHub Profile](https://github.com/7supriyo)
 
 **Let's build the future, one transistor at a time!** ⚡
