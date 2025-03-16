@@ -87,4 +87,3 @@ I'm always eager to collaborate, discuss VLSI design, or explore new opportuniti
 
 **Let's build the future, one transistor at a time!** ⚡
 
----
