@@ -55,7 +55,7 @@ I'm a passionate **VLSI enthusiast** dedicated to the fascinating world of digit
 
 ## 🏆 Achievements
 - **Certificate of Distinction** for exceptional performance during the **Winter School 2024** organized by the **Centre for Nano Science and Engineering (CeNSE)** at **The Indian Institute of Science (IISc)**  
-  🔗 [Certificate Link](#)
+  🔗 [Certificate Link](https://www.linkedin.com/posts/supriyo-roy-7abc_i-am-honored-to-announce-that-i-have-been-activity-7291109039336304640-EEyf?utm_source=share&utm_medium=member_desktop&rcm=ACoAADb8gnkBFaPS2hevLUWZUpALS5iztSeeHPk)
 - **2nd Prize** in **"Electroquip"** at **SPHURAN 3.0** - The Electrical Department's annual technical fest of IIEST, Shibpur
 - Qualified for the **final Simulation-Based Round** in **Electribitz** of **AXIS'24**: The Annual Technical Festival of VNIT
 
@@ -82,7 +82,10 @@ When I'm not immersed in circuit design:
 ## 🤝 Let's Connect!
 I'm always eager to collaborate, discuss VLSI design, or explore new opportunities in semiconductor technology:
 - 📧 **Email**: suppiyor099@gmail.com
-- 💼 **LinkedIn**: [LinkedIn Profile](#)
+- 💼 **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/
+supriyo-roy-7abc
+Vanity URL name
+)
 - 🐱 **GitHub**: [GitHub Profile](https://github.com/7supriyo)
 
 **Let's build the future, one transistor at a time!** ⚡
