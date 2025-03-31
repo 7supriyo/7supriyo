@@ -84,6 +84,11 @@ I'm always eager to collaborate, discuss VLSI design, or explore new opportuniti
 - 📧 **Email**: suppiyor099@gmail.com
 - 💼 **LinkedIn**: [LinkedIn Profile](linkedin.com/in/supriyo-roy-7abc)
 - 🐱 **GitHub**: [GitHub Profile](https://github.com/7supriyo)
+## 📈 GitHub Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=7supriyo&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=7supriyo&theme=radical" alt="GitHub Streak"/>
+</div>
 
 **Let's build the future, one transistor at a time!** ⚡
 
