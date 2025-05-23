@@ -89,6 +89,10 @@ I'm always eager to collaborate, discuss VLSI design, or explore new opportuniti
   <img src="https://github-readme-stats.vercel.app/api?username=7supriyo&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=7supriyo&theme=radical" alt="GitHub Streak"/>
 </div>
+## 👨‍💻 Most Used Languages
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7supriyo&layout=compact&theme=radical" alt="Most Used Languages"/>
+</div>
 **Let's build the future, one transistor at a time!** ⚡
 
